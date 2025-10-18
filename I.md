@@ -2,24 +2,23 @@
 <details>
 <summary> actionables</summary>
 Create a document listing all your skills (CI/CD, Cloud, IaC, Containers, Monitoring, Scripting). Rate your proficiency in each (Beginner, Intermediate, Expert).
-<span style="color:red">This text is red</span>
 
 
-| Skill    | demonstration | References || 
-| -------- | ------- |------- |------- |
-| CI  | Build Code using Different Tools, Jenknins, Circleci    |||
-| CD(delivery, deployment)  | <span style="color:green">✅ Feature Complete</span>Build terraform Code, ArgoCD Deployments, Jenknins, Circleci    |||
-| Security and Hardening||||
-| Cloud | AWS     |||
-| IAC    | Terraform    |||
-| Containers  | Docker    |||
-| Monitoring  | <font color="red">Prometheus, Grafana</font>    |||
-| Scripting  | shell    |||
-| container orchestration  | kubernetes    |||
-| certifications | AWS, kubernetes     |||
-| algorithms |      |||
-| system design |      |||
-| linux |      |||
+|⚠️✅ℹ️| Skill    | demonstration | References || 
+| -------- | -------- | ------- |------- |------- |
+|⚠️✅ℹ️| CI  | Build Code using Different Tools, Jenknins, Circleci    |||
+|⚠️✅ℹ️| CD(delivery, deployment)  | Build terraform Code, ArgoCD Deployments, Jenknins, Circleci    |||
+|⚠️✅ℹ️| Security and Hardening||||
+|⚠️✅ℹ️| Cloud | AWS     |||
+|⚠️✅ℹ️| IAC    | Terraform    |||
+|⚠️✅ℹ️| Containers  | Docker    |||
+|⚠️✅ℹ️| Monitoring  | <font color="red">Prometheus, Grafana</font>    |||
+|⚠️✅ℹ️| Scripting  | shell    |||
+|⚠️✅ℹ️| container orchestration  | kubernetes    |||
+|⚠️✅ℹ️| certifications | AWS, kubernetes     |||
+|⚠️✅ℹ️| algorithms |      |||
+|⚠️✅ℹ️| system design |      |||
+|⚠️✅ℹ️| linux |      |||
 
 </details>
 
