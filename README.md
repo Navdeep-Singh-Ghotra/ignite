@@ -42,3 +42,6 @@ Focus on LinkedIn Connection Requests and Application Tracking.
 Weekends:
 Dedicate one 2-3 hour block to either a bigger project task or complete rest. Your choice.
 
+
+Use GTimeLog, time is gold, be mindful of what you spend it on :-)
+
