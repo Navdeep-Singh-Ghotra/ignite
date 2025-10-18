@@ -31,27 +31,27 @@ Create a document listing all your skills (CI/CD, Cloud, IaC, Containers, Monito
 Identify 15-20 target companies in Montreal (e.g., Shopify, Morgan Stanley, Ubisoft, Hopper, Lightspeed, local startups).
 
 
-| Name | Domain| Tech stack| Company type and size| Relevant link|
+|⚠️✅ℹ️| Name | Domain| Tech stack| Company type and size| Relevant link|
 | -------- | ------- |------- |-------- | ------- |
-| Shopify | ||||
-| Lightspeed |||||
-| Hopper |||||
-| Sonder |||||
-| Circleci|||||
-| Ubisoft |||||
-|EA |||||
-| Behaviour interactive|||||
-| WB games |||||
-| DNEG|||||
-| Morgan stanley|||||
-| Royal bank of Canada|||||
-| National bank|||||
-| CAE|||||
-| Bombardier|||||
-| ALayacare|||||
-| Paper |||||
-| Vention|||||
-| Conveo|||||
+|⚠️✅ℹ️| Shopify | ||||
+|⚠️✅ℹ️| Lightspeed |||||
+|⚠️✅ℹ️| Hopper |||||
+|⚠️✅ℹ️| Sonder |||||
+|⚠️✅ℹ️| Circleci|||||
+|⚠️✅ℹ️| Ubisoft |||||
+|⚠️✅ℹ️|EA |||||
+|⚠️✅ℹ️| Behaviour interactive|||||
+|⚠️✅ℹ️| WB games |||||
+|⚠️✅ℹ️| DNEG|||||
+|⚠️✅ℹ️| Morgan stanley|||||
+|⚠️✅ℹ️| Royal bank of Canada|||||
+|⚠️✅ℹ️| National bank|||||
+|⚠️✅ℹ️| CAE|||||
+|⚠️✅ℹ️| Bombardier|||||
+|⚠️✅ℹ️| ALayacare|||||
+|⚠️✅ℹ️| Paper |||||
+|⚠️✅ℹ️| Vention|||||
+|⚠️✅ℹ️| Conveo|||||
 
 </details>
 
