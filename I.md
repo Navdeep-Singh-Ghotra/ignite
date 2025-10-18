@@ -6,7 +6,9 @@ Create a document listing all your skills (CI/CD, Cloud, IaC, Containers, Monito
 
 | Skill    | demonstration | References || 
 | -------- | ------- |------- |------- |
-| CICD  | Jenknins, Circleci    |||
+| CI  | Build Code using Different Tools, Jenknins, Circleci    |||
+| CD(delivery, deployment)  | Build terraform Code, ArgoCD Deployments, Jenknins, Circleci    |||
+| Security and Hardening||||
 | Cloud | AWS     |||
 | IAC    | Terraform    |||
 | Containers  | Docker    |||
@@ -16,6 +18,7 @@ Create a document listing all your skills (CI/CD, Cloud, IaC, Containers, Monito
 | certifications | AWS, kubernetes     |||
 | algorithms |      |||
 | system design |      |||
+| linux |      |||
 
 </details>
 
