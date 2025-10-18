@@ -14,9 +14,9 @@
 <details>
 <summary>actionables
 </summary>
-</details>
 A Python/Bash scripting challenge on HackerRank or LeetCode (Easy/Medium).
 
 A Kubernetes troubleshooting scenario (e.g., "Pod is in CrashLoopBackOff, how do you debug?").
 
 A system design concept (e.g., "Explain how you would design a CI/CD pipeline").
+</details>
