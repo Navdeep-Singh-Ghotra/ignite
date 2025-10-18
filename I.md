@@ -4,21 +4,21 @@
 Create a document listing all your skills (CI/CD, Cloud, IaC, Containers, Monitoring, Scripting). Rate your proficiency in each (Beginner, Intermediate, Expert).
 
 
-|⚠️✅ℹ️| Skill    | demonstration | References || 
-| -------- | -------- | ------- |------- |------- |
-|⚠️✅ℹ️| CI  | Build Code using Different Tools, Jenknins, Circleci    |||
-|⚠️✅ℹ️| CD(delivery, deployment)  | Build terraform Code, ArgoCD Deployments, Jenknins, Circleci    |||
-|⚠️✅ℹ️| Security and Hardening||||
-|⚠️✅ℹ️| Cloud | AWS     |||
-|⚠️✅ℹ️| IAC    | Terraform    |||
-|⚠️✅ℹ️| Containers  | Docker    |||
-|⚠️✅ℹ️| Monitoring  | <font color="red">Prometheus, Grafana</font>    |||
-|⚠️✅ℹ️| Scripting  | shell    |||
-|⚠️✅ℹ️| container orchestration  | kubernetes    |||
-|⚠️✅ℹ️| certifications | AWS, kubernetes     |||
-|⚠️✅ℹ️| algorithms |      |[princeton](https://algs4.cs.princeton.edu/home/)||
-|⚠️✅ℹ️| system design |      | [Acing system design , Zhiyong Tan](https://learning-oreilly-com.res.banq.qc.ca/library/view/acing-the-system/9781633439108/) ||
-|⚠️✅ℹ️| linux |      |||
+|⚠️✅ℹ️| Skill    | demonstration | References | 
+| -------- | -------- | ------- |------- |
+|⚠️✅ℹ️| CI  | Build Code using Different Tools, Jenknins, Circleci    ||
+|⚠️✅ℹ️| CD(delivery, deployment)  | Build terraform Code, ArgoCD Deployments, Jenknins, Circleci    ||
+|⚠️✅ℹ️| Security and Hardening|||
+|⚠️✅ℹ️| Cloud | AWS     ||
+|⚠️✅ℹ️| IAC    | Terraform    ||
+|⚠️✅ℹ️| Containers  | Docker    ||
+|⚠️✅ℹ️| Monitoring  | <font color="red">Prometheus, Grafana</font>    ||
+|⚠️✅ℹ️| Scripting  | shell    ||
+|⚠️✅ℹ️| container orchestration  | kubernetes    ||
+|⚠️✅ℹ️| certifications | AWS, kubernetes     ||
+|⚠️✅ℹ️| algorithms |      |[princeton](https://algs4.cs.princeton.edu/home/)|
+|⚠️✅ℹ️| system design |      | [Acing system design , Zhiyong Tan](https://learning-oreilly-com.res.banq.qc.ca/library/view/acing-the-system/9781633439108/) |
+|⚠️✅ℹ️| linux |      ||
 
 </details>
 
