@@ -1,7 +1,6 @@
 ##### Skills Audit
 <details>
 <summary> Solution</summary>
-
 ```Create a document listing all your skills (CI/CD, Cloud, IaC, Containers, Monitoring, Scripting). Rate your proficiency in each (Beginner, Intermediate, Expert).
 ```
 </details>
