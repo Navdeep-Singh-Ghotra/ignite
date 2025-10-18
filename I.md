@@ -32,9 +32,7 @@ Rewrite your resume using the STAR method (Situation, Task, Action, Result) for 
 <summary> Solution</summary>
 ```
 Update your headline to: "DevOps Engineer | AWS, Kubernetes, Terraform | Seeking New Opportunity in Montreal"
-
 Rewrite your "About" section to mirror your resume's STAR stories.
-
 Ensure your experience section is complete and matches your resume.
 ```
 </details>
