@@ -12,7 +12,7 @@ Create a document listing all your skills (CI/CD, Cloud, IaC, Containers, Monito
 | Cloud | AWS     |||
 | IAC    | Terraform    |||
 | Containers  | Docker    |||
-| Monitoring  | Prometheus, Grafana    |||
+| Monitoring  | <font color="red">Prometheus, Grafana</font>    |||
 | Scripting  | shell    |||
 | container orchestration  | kubernetes    |||
 | certifications | AWS, kubernetes     |||
