@@ -7,7 +7,7 @@ Create a document listing all your skills (CI/CD, Cloud, IaC, Containers, Monito
 | Skill    | demonstration | References || 
 | -------- | ------- |------- |------- |
 | CI  | Build Code using Different Tools, Jenknins, Circleci    |||
-| CD(delivery, deployment)  | Build terraform Code, ArgoCD Deployments, Jenknins, Circleci    |||
+| CD(delivery, deployment)  | <span style="color:blue">ℹ️ Information</span>Build terraform Code, ArgoCD Deployments, Jenknins, Circleci    |||
 | Security and Hardening||||
 | Cloud | AWS     |||
 | IAC    | Terraform    |||
