@@ -22,9 +22,32 @@ Create a document listing all your skills (CI/CD, Cloud, IaC, Containers, Monito
 ##### Target List
 <details>
 <summary> actionables</summary>
-```
+
 Identify 15-20 target companies in Montreal (e.g., Shopify, Morgan Stanley, Ubisoft, Hopper, Lightspeed, local startups).
-```
+
+
+| Name | Domain| Tech stack| Company type and size| Relevant link|
+| -------- | ------- |------- |-------- | ------- |
+| Shopify | ||||
+| Lightspeed |||||
+| Hopper |||||
+| Sonder |||||
+| Circleci|||||
+| Ubisoft |||||
+|EA |||||
+| Behaviour interactive|||||
+| WB games |||||
+| DNEG|||||
+| Morgan stanley|||||
+| Royal bank of Canada|||||
+| National bank|||||
+| CAE|||||
+| Bombardier|||||
+| ALayacare|||||
+| Paper |||||
+| Vention|||||
+| Conveo|||||
+
 </details>
 
 ---
