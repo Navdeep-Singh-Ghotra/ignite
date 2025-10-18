@@ -13,12 +13,13 @@ Create a document listing all your skills (CI/CD, Cloud, IaC, Containers, Monito
 |⚠️✅ℹ️| IAC    | Terraform    ||
 |⚠️✅ℹ️| Containers  | Docker    ||
 |⚠️✅ℹ️| Monitoring  | <font color="red">Prometheus, Grafana</font>    ||
-|⚠️✅ℹ️| Scripting  | shell    ||
+|⚠️✅ℹ️| Scripting  | shell    |[python devops, Noah Gift](https://learning-oreilly-com.res.banq.qc.ca/library/view/python-for-devops/9781492057680/) [The linux commandline](https://learning-oreilly-com.res.banq.qc.ca/library/view/the-linux-command/9781492071235/)|
 |⚠️✅ℹ️| container orchestration  | kubernetes    ||
 |⚠️✅ℹ️| certifications | AWS, kubernetes     ||
 |⚠️✅ℹ️| algorithms |      |[princeton](https://algs4.cs.princeton.edu/home/)|
 |⚠️✅ℹ️| system design |      | [Acing system design , Zhiyong Tan](https://learning-oreilly-com.res.banq.qc.ca/library/view/acing-the-system/9781633439108/) |
 |⚠️✅ℹ️| linux |      ||
+|⚠️✅ℹ️| languages | java, python, golang, typescript      ||
 
 </details>
 
