@@ -14,6 +14,8 @@ Create a document listing all your skills (CI/CD, Cloud, IaC, Containers, Monito
 | Scripting  | shell    |||
 | container orchestration  | kubernetes    |||
 | certifications | AWS, kubernetes     |||
+| algorithms |      |||
+| system design |      |||
 
 </details>
 
