@@ -6,8 +6,8 @@ What why when how where ?
 
 ##### Phases
 <details>
-<summary>Phase 1 --> IAC
+<summary>actionables</summary>Phase 1 --> IAC
 Phase 2 --> Containerization
 Phase 3 --> CI/CD
-Phase 4 --> Documentation </summary>
+Phase 4 --> Documentation 
 </details>
