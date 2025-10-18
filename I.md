@@ -1,7 +1,19 @@
 ##### Skills Audit
 <details>
-<summary> Solution</summary>
+<summary> actionables</summary>
 ```Create a document listing all your skills (CI/CD, Cloud, IaC, Containers, Monitoring, Scripting). Rate your proficiency in each (Beginner, Intermediate, Expert).
+
+
+| Skill    | demonstration | References | 
+| -------- | ------- |------- |------- |
+| CICD  | Jenknins, Circleci    |||
+| Cloud | AWS     |||
+| IAC    | Terraform    |||
+| Containers  | Docker    |||
+| Monitoring  | Prometheus, Grafana    |||
+| Scripting  | shell    |||
+| container orchestration  | kubernetes    |||
+| certifications | AWS, kubernetes     |||
 ```
 </details>
 
@@ -9,7 +21,7 @@
 
 ##### Target List
 <details>
-<summary> Solution</summary>
+<summary> actionables</summary>
 ```
 Identify 15-20 target companies in Montreal (e.g., Shopify, Morgan Stanley, Ubisoft, Hopper, Lightspeed, local startups).
 ```
@@ -19,7 +31,7 @@ Identify 15-20 target companies in Montreal (e.g., Shopify, Morgan Stanley, Ubis
 
 ##### Resume Revamp
 <details>
-<summary> Solution</summary>
+<summary> actionables</summary>
 ```
 Rewrite your resume using the STAR method (Situation, Task, Action, Result) for at least 5 key accomplishments. Include metrics (e.g., "reduced deployment time by 30%," "cut cloud costs by 15%").
 ```
@@ -29,7 +41,7 @@ Rewrite your resume using the STAR method (Situation, Task, Action, Result) for 
 
 ##### LinkedIn Overhaul
 <details>
-<summary> Solution</summary>
+<summary> actionables</summary>
 ```
 Update your headline to: "DevOps Engineer | AWS, Kubernetes, Terraform | Seeking New Opportunity in Montreal"
 Rewrite your "About" section to mirror your resume's STAR stories.
@@ -41,7 +53,7 @@ Ensure your experience section is complete and matches your resume.
 
 ##### Cover Letter Template
 <details>
-<summary> Solution</summary>
+<summary> actionables</summary>
 ```
 Create a strong, reusable cover letter template with placeholders for the company name and a specific reason for your interest.
 ```
