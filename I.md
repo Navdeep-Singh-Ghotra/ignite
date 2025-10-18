@@ -32,7 +32,7 @@ Identify 15-20 target companies in Montreal (e.g., Shopify, Morgan Stanley, Ubis
 
 
 |⚠️✅ℹ️| Name | Domain| Tech stack| Company type and size| Relevant link|
-| -------- | ------- |------- |-------- | ------- |
+| -------- | -------- | ------- |------- |-------- | ------- |
 |⚠️✅ℹ️| Shopify | ||||
 |⚠️✅ℹ️| Lightspeed |||||
 |⚠️✅ℹ️| Hopper |||||
