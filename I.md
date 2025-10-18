@@ -1,10 +1,10 @@
 ##### Skills Audit
 <details>
 <summary> actionables</summary>
-```Create a document listing all your skills (CI/CD, Cloud, IaC, Containers, Monitoring, Scripting). Rate your proficiency in each (Beginner, Intermediate, Expert).
+Create a document listing all your skills (CI/CD, Cloud, IaC, Containers, Monitoring, Scripting). Rate your proficiency in each (Beginner, Intermediate, Expert).
 
 
-| Skill    | demonstration | References | 
+| Skill    | demonstration | References || 
 | -------- | ------- |------- |------- |
 | CICD  | Jenknins, Circleci    |||
 | Cloud | AWS     |||
@@ -14,7 +14,7 @@
 | Scripting  | shell    |||
 | container orchestration  | kubernetes    |||
 | certifications | AWS, kubernetes     |||
-```
+
 </details>
 
 ---
