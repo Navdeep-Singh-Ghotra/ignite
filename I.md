@@ -16,8 +16,8 @@ Create a document listing all your skills (CI/CD, Cloud, IaC, Containers, Monito
 |⚠️✅ℹ️| Scripting  | shell    |||
 |⚠️✅ℹ️| container orchestration  | kubernetes    |||
 |⚠️✅ℹ️| certifications | AWS, kubernetes     |||
-|⚠️✅ℹ️| algorithms |      |||
-|⚠️✅ℹ️| system design |      |||
+|⚠️✅ℹ️| algorithms |      ||[text](https://algs4.cs.princeton.edu/home/)|
+|⚠️✅ℹ️| system design |      | Acing system design , Zhiyong Tan ||
 |⚠️✅ℹ️| linux |      |||
 
 </details>
