@@ -8,11 +8,11 @@ Create a document listing all your skills (CI/CD, Cloud, IaC, Containers, Monito
 | -------- | -------- | ------- |------- |
 |⚠️✅ℹ️| CI  | Build Code using Different Tools, A. Jenknins, B. Circleci C. cmake    ||
 |⚠️✅ℹ️| CD(delivery, deployment)  | Build terraform Code, ArgoCD Deployments, Jenknins, Circleci    ||
-|⚠️✅ℹ️| Security and Hardening|||
+|⚠️✅ℹ️| Security and Hardening|SAST and DAST tools ||
 |⚠️✅ℹ️| Cloud | AWS     ||
 |⚠️✅ℹ️| IAC    | Terraform    ||
 |⚠️✅ℹ️| Containers  | Docker    ||
-|⚠️✅ℹ️| Monitoring  | <font color="red">Prometheus, Grafana</font>    ||
+|⚠️✅ℹ️| Monitoring  | monitoring, alerting, and log   ||
 |⚠️✅ℹ️| Telemetry  |     ||
 |⚠️✅ℹ️| Logging  | ELK stack    ||
 |⚠️✅ℹ️| Scripting  | shell    |[python devops, Noah Gift](https://learning-oreilly-com.res.banq.qc.ca/library/view/python-for-devops/9781492057680/) [The linux commandline](https://learning-oreilly-com.res.banq.qc.ca/library/view/the-linux-command/9781492071235/)|
