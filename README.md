@@ -36,9 +36,9 @@ gantt
     title Project Ignite - Overall Progress
     dateFormat  DD-MM-YYYY
     section skill
-    Algorithms       : a1, 05-10-2025, 20d
-    CKA      : 70, 90
-    AWS dop       : 90, 100
+    Algorithms       : a1, 02-10-2025, 20d
+    CKA      : 05-10-2025, 20d
+    AWS dop       : 05-10-2025, 20d
 ```
 
 I Foundation & Materials
