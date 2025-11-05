@@ -34,10 +34,9 @@ kanban
 ```mermaid
 gantt
     title Project Ignite - Overall Progress
-    dateFormat  X
-    axisFormat %s%
+    dateFormat  DD-MM-YYYY
     section skill
-    Algorithms       : 0, 70
+    Algorithms       : a1, 05-10-2025, 20d
     CKA      : 70, 90
     AWS dop       : 90, 100
 ```
