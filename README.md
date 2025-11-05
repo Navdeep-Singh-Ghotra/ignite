@@ -36,6 +36,7 @@ gantt
     title Project Ignite - Overall Progress
     dateFormat  DD-MM-YYYY
     axisFormat %d-%m-%Y
+    tickInterval 1week
     section skill building
     Algorithms       : a1, 02-10-2025, 20d
     System design : 20-10-2025,10d 
