@@ -31,6 +31,17 @@ kanban
 
 ```
 
+```mermaid
+gantt
+    title Project Ignite - Overall Progress
+    dateFormat  X
+    axisFormat %s%
+    section skill
+    Algorithms       : 0, 70
+    CKA      : 70, 90
+    AWS dop       : 90, 100
+```
+
 I Foundation & Materials
 Skills audit
 Target list
