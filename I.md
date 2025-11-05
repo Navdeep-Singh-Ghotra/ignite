@@ -1,26 +1,4 @@
 ##### Skills Audit
-
-gantt
-    title Ignite
-    dateFormat  YYYY-MM-DD
-    axisFormat %b %d
-    
-    section Algorithms
-    Wireframes      :active, 2024-01-01, 7d
-    Design Mockups  :crit, 2024-01-08, 10d
-    
-    section System design
-    Frontend Build  :active, 2024-01-15, 14d
-    Backend API     :2024-01-22, 21d
-    
-    section Certifications
-    QA & Testing    :2024-02-12, 14d
-    Go-Live         :milestone, crit, 2024-02-26, 0d
-
-    section Cloud native
-    Docker kubernetes  :active, 2024-01-15, 14d
-    AWS     :2024-01-22, 21d
-
 <details>
 <summary> actionables</summary>
 Create a document listing all your skills (CI/CD, Cloud, IaC, Containers, Monitoring, Scripting). Rate your proficiency in each (Beginner, Intermediate, Expert).
