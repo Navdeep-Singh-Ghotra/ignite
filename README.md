@@ -6,10 +6,16 @@ config:
 ---
 kanban
   Todo
-    [Create Documentation]
-    docs[Create Blog about the new diagram]
+    [Certified kubernetes admin]
+    docs[AWS- devops professional]
+    [Algorithms Princeton university]
+    [Monitoring stack]
+    [shell scripting]
+    [system design]
+    [Linux]
+    [Linkedin, Resume]
   [In progress]
-    id6[Create renderer so that it works in all cases. We also add some extra text here for testing purposes. And some more just for the extra flare.]
+    id6[Algorithms, Princeton University]
   id9[Ready for deploy]
     id8[Design grammar]@{ assigned: 'knsv' }
   id10[Ready for test]
