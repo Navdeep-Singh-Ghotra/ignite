@@ -35,6 +35,7 @@ kanban
 gantt
     title Project Ignite - Overall Progress
     dateFormat  DD-MM-YYYY
+    axisFormat %d-%m-%Y
     section skill
     Algorithms       : a1, 02-10-2025, 20d
     CKA      : 05-10-2025, 20d
