@@ -20,7 +20,7 @@ Create a document listing all your skills (CI/CD, Cloud, IaC, Containers, Monito
 |⚠️✅ℹ️| certifications | AWS, kubernetes     |[AWS dop](https://learning-oreilly-com.res.banq.qc.ca/course/aws-certified-devops/9781836207634/)|
 |⚠️✅ℹ️| algorithms, 12 factor app |      |[princeton](https://algs4.cs.princeton.edu/home/) [banq video](https://learning-oreilly-com.res.banq.qc.ca/course/algorithms-24part-lecture/9780134384528/)|
 |⚠️✅ℹ️| system design |      | [Acing system design , Zhiyong Tan](https://learning-oreilly-com.res.banq.qc.ca/library/view/acing-the-system/9781633439108/) |
-|⚠️✅ℹ️| linux |      ||
+|⚠️✅ℹ️| linux |      | [How linux works](https://learning-oreilly-com.res.banq.qc.ca/library/view/how-linux-works/9781098128913/)|
 |⚠️✅ℹ️| languages | java, python, golang, typescript      ||
 
 </details>
