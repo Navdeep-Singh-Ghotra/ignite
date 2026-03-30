@@ -17,7 +17,7 @@ Create a document listing all your skills (CI/CD, Cloud, IaC, Containers, Monito
 |⚠️✅ℹ️| Logging, golden signals  | ELK stack    ||
 |⚠️✅ℹ️| Scripting  | shell    |[python devops, Noah Gift](https://learning-oreilly-com.res.banq.qc.ca/library/view/python-for-devops/9781492057680/) [The linux commandline](https://learning-oreilly-com.res.banq.qc.ca/library/view/the-linux-command/9781492071235/)|
 |⚠️✅ℹ️| container orchestration  | kubernetes, Helm, Flux, ArgoCD, GitOps    ||
-|⚠️✅ℹ️| certifications | AWS, kubernetes     |[AWS dop](https://learning-oreilly-com.res.banq.qc.ca/course/aws-certified-devops/9781836207634/)|
+|⚠️✅ℹ️| certifications | AWS, kubernetes     |[AWS dop](https://learning-oreilly-com.res.banq.qc.ca/course/aws-certified-devops/9781836207634/)|[Acing CHAD](https://learning-oreilly-com.res.banq.qc.ca/library/view/acing-the-certified/9781633435308/Text/contents.html)|
 |⚠️✅ℹ️| algorithms, 12 factor app |      |[princeton](https://algs4.cs.princeton.edu/home/) [banq video](https://learning-oreilly-com.res.banq.qc.ca/course/algorithms-24part-lecture/9780134384528/)|
 |⚠️✅ℹ️| system design |      | [Acing system design , Zhiyong Tan](https://learning-oreilly-com.res.banq.qc.ca/library/view/acing-the-system/9781633439108/) |
 |⚠️✅ℹ️| linux |      | [How linux works](https://learning-oreilly-com.res.banq.qc.ca/library/view/how-linux-works/9781098128913/)|
